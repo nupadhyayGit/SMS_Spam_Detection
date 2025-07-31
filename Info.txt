@@ -1,0 +1,7 @@
+For SMS or Email SPAM classification :
+--------------------------------------
+Below 3 steps are to be performed for any new SMS or Email to be classified as SPAM or NOT SPAM - 
+
+1. Transform the text message/email (Lowercase, Tokenization, Removing special characters, stop words, punctuations, Stemming)
+2. Vectorize the transformed text
+3. Apply ML algorithms
