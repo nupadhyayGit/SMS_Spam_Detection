@@ -1,1 +1,1 @@
-# SMS_Spam_Detection
+A machine learning-based solution to classify messages as spam or ham (legitimate) using Natural Language Processing (NLP) techniques. The project includes data cleaning, feature engineering, text vectorization (TF-IDF), model training with algorithms like Naive Bayes, SVM, KNN, Random Forest.
